@@ -6,3 +6,13 @@ Example from [Building a Coronavirus tracker app with Spring Boot and Java - Jav
 
 - Java 11+
 - Maven
+
+## Run
+
+```
+mvn spring-boot:run
+```
+
+## Open
+
+- http://localhost:8080
