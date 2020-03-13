@@ -16,3 +16,10 @@ mvn spring-boot:run
 ## Open
 
 - http://localhost:8080
+
+
+## COVID-19 Web
+
+- https://covidtracker.5lab.co
+- https://map.longdo.com/covid19
+- https://coronaboard.kr
